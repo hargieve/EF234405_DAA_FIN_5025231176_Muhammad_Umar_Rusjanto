@@ -112,4 +112,4 @@ All core algorithmic logic is original. The following standard-library modules a
 
 | Member | Student ID | Contribution |
 |--------|-----------|--------------|
-| [Name 1] | [ID] | [Role] |
+| Muhammad Umar Rusjanto | [ID] | [Role] |
